@@ -29,17 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balram-1&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Balram's GitHub Stats" />
- </p>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balram-1&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages" />
-</p>
-
----
-
 ## 🟩 Contribution Activity
 
 <picture>
@@ -49,13 +38,6 @@
 </picture>
 
 
-
-<p align="center">
-  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balram-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ## 📞 Contact
 
