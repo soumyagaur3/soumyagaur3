@@ -31,7 +31,7 @@
 
 ## 🟩 Contribution Activity
 
-![snake gif](https://github.com/soumyagaur3/soumyagaur3/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/soumyagaur3/soumyagaur3/blob/output/github-contribution-grid-snake.svg)
 
 
 
