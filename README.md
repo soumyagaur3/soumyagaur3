@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balram-1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=soumyagaur3&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/Balram-1?style=for-the-badge&label=Stars" alt="GitHub Stars" />
   <img src="https://img.shields.io/github/followers/Balram-1?style=for-the-badge&label=Followers" alt="GitHub Followers" />
   <img src="https://img.shields.io/badge/Joined%20GitHub-2022-blueviolet?style=for-the-badge" alt="Joined GitHub" />
